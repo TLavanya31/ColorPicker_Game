@@ -21,7 +21,6 @@ A fun memory-based color sequence game built using **HTML**, **CSS**, and **Java
 
 🔗 **[Play the Game Now](https://prismatic-kleicha-88175d.netlify.app/)**
 
-> Make sure the project is deployed via GitHub Pages or another platform.
 
 ---
 
